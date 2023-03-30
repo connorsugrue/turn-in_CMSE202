@@ -168,7 +168,6 @@ class Animal_Agent():
                     break
 
         return child_list
-    
 
 
 
